@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Trying out Franklin to learn
+
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
